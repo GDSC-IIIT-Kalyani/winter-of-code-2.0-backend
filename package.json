@@ -1,0 +1,40 @@
+{
+  "name": "winter-of-code-2.0-backend",
+  "version": "1.0.0",
+  "description": "Ofiicial website for Winter of Code 2.0 organised by IIIT Kalyani with collabaration of 10+ GDSC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSC-IIIT-Kalyani/winter-of-code-2.0-backend.git"
+  },
+  "keywords": [
+    "woc2.0",
+    "iiitkalyani",
+    "gdsc",
+    "open-source"
+  ],
+  "author": "GDSC IIIT Kalyani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSC-IIIT-Kalyani/winter-of-code-2.0-backend/issues"
+  },
+  "homepage": "https://github.com/DSC-IIIT-Kalyani/winter-of-code-2.0-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "express-validator": "^6.12.1",
+    "formidable": "^1.2.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.1",
+    "morgan": "^1.10.0",
+    "uuid": "^8.3.2"
+  }
+}
